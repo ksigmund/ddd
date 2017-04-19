@@ -6,23 +6,24 @@
 > Domain-driven design (__DDD__) is an __approach to developing software__ for complex needs by deeply connecting the implementation to an evolving __model of the core business__ 
 +++
 # What?
-![confused](images/confused.gif)
+![confused](assets/confused.gif)
 +++
 * A set of __strategic and tactical modeling tools__ necessary to design high-quality software that meets core business objectives
 * __Not__ a specific technology
 +++
-![](images/ddd_book.png) Domain-Driven Design
-Eric Evans
-2003
-![](images/iddd_book.png)
-Implementing Domain-Driven Design
-Vaughn Vernon
-2013
-
+![](assets/ddd_book.png)
+# _Domain-Driven Design_
+## Eric Evans
+## 2003
++++
+![](assets/iddd_book.png)
+# Implementing Domain-Driven Design
+## Vaughn Vernon
+## 2013
 +++
 Mercator Map
 
-![Mercator Map](images/mercator_map.jpg)
+![Mercator Map](assets/mercator_map.jpg)
 
 ---
 
