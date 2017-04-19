@@ -12,12 +12,12 @@
 * __Not__ a specific technology
 +++
 ![](assets/ddd_book.png)
-## _Domain-Driven Design_
+## __Domain-Driven Design__
 #### Eric Evans
 #### 2003
 +++
 ![](assets/iddd_book.png)
-### Implementing Domain-Driven Design
+### __Implementing Domain-Driven Design__
 #### Vaughn Vernon
 #### 2013
 +++
