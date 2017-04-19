@@ -6,7 +6,7 @@
 +++
 > Domain-driven design (DDD) is an approach to developing software for complex needs by deeply connecting the implementation to an evolving model of the core business 
 +++
-:confused:
+![confused](images/confused.gif)
 +++
 
 Mercator Map
