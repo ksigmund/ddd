@@ -4,7 +4,7 @@
 
 Another
 
-!(images/mercator_map.jpg)
+![Mercator Map](images/mercator_map.jpg)
 
 ---
 
