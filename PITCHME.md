@@ -12,14 +12,14 @@
 * __Not__ a specific technology
 +++
 ![](assets/ddd_book.png)
-# _Domain-Driven Design_
-## Eric Evans
-## 2003
+## _Domain-Driven Design_
+#### Eric Evans
+#### 2003
 +++
 ![](assets/iddd_book.png)
-# Implementing Domain-Driven Design
-## Vaughn Vernon
-## 2013
+### Implementing Domain-Driven Design
+#### Vaughn Vernon
+#### 2013
 +++
 Mercator Map
 
