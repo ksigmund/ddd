@@ -4,6 +4,8 @@
 
 Another
 
+!(images/mercator_map.jpg)
+
 ---
 
 The End :)
