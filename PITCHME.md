@@ -14,13 +14,13 @@
 ## The Books
 ![](assets/books.gif)
 +++
-[![](assets/ddd_book.png)](http://a.co/8jJlMNF)
-### <u>Domain-Driven Design</u>
+![ddd book](assets/ddd_book.png)
+### [Domain-Driven Design]((http://a.co/8jJlMNF)
 #### Eric Evans
 #### 2003
 +++
-[![](assets/iddd_book.png)](http://a.co/dNl1Mxg)
-### <u>Implementing Domain-Driven Design</u>
+[![idd book](assets/iddd_book.png)](http://a.co/dNl1Mxg)
+### [Implementing Domain-Driven Design]((http://a.co/8jJlMNF))
 #### Vaughn Vernon
 #### 2013
 +++
