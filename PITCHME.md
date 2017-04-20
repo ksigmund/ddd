@@ -15,7 +15,7 @@
 ![](assets/books.gif)
 +++
 ![ddd book](assets/ddd_book.png)
-### [Domain-Driven Design]((http://a.co/8jJlMNF)
+### [Domain-Driven Design](http://a.co/8jJlMNF)
 #### Eric Evans
 #### 2003
 +++
