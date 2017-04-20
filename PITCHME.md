@@ -19,7 +19,7 @@
 #### Eric Evans
 #### 2003
 +++
-[![idd book](assets/iddd_book.png)](http://a.co/dNl1Mxg)
+![idd book](assets/iddd_book.png)(http://a.co/dNl1Mxg)
 ### [Implementing Domain-Driven Design]((http://a.co/8jJlMNF))
 #### Vaughn Vernon
 #### 2013
